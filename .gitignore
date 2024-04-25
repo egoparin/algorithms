@@ -19,3 +19,4 @@ calculator-service/.springBeans
 /effective-pom.xml
 .springBeans
 .DS_Store
+*out
